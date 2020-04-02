@@ -1,2 +1,14 @@
-# nigeria_covid19
-Repository on the COVID-19 Cases in Nigeria
+# COVID-19 Case Data and Forecasting in Nigeria
+**
+
+### Introduction
+**
+
+### Dataset and Repository
+**
+
+### Code
+**
+
+### Forecasting with Limited Data
+**
