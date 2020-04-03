@@ -10,7 +10,7 @@ The Coronavirus disease COVID-19 at this point of writing is a pandemic that has
 
 ### [2] Dataset and Repository
 **Description:**  
-The daily total number of COVID-19 cases in Nigeria from February 27, 2020 to April 5, 2020 were automatically mined every 24 hours from the official websites of NCDC (http://covid.ncdc.gov.ng/) and Wikipedia (http://tiny.cc/nigeria_covid19) using a python script. The dataset is in raw Excel file format  
+The daily total number of COVID-19 cases in Nigeria from February 27, 2020 to April 5, 2020 were automatically mined every 24 hours from the official websites of NCDC (http://covid19.ncdc.gov.ng/) and Wikipedia (http://tiny.cc/nigeria_covid19) using a python script. The dataset is in raw Excel file format  
 
 **Files:**  
 **`nigeria_covid19.csv`**,  
