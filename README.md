@@ -19,7 +19,7 @@ COVID-19 Pandemic in Nigeria – Wikipedia http://tiny.cc/nigeria_covid19
 
 ### [3] Code  
 **Description:**  
-This is the part of the automated script to mine data on COVID-19 case numbers in Nigeria  
+This is the segment of the automated script helps to mine data on COVID-19 case numbers in Nigeria  
 
 **Files:**  
 **`nigeria_covid19.py`**  
