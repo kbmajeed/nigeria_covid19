@@ -21,7 +21,7 @@ Nigeria Center for Disease Control – NCDC http://covid19.ncdc.gov.ng/
 COVID-19 Pandemic in Nigeria – Wikipedia http://tiny.cc/nigeria_covid19  
 
 ### Code  
-**Description:**
+**Description:**  
 This is the part of the automated script to mine data on COVID-19 case numbers in Nigeria  
 
 **Files:**  
