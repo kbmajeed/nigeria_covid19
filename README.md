@@ -15,8 +15,8 @@ Description:
 The daily total number of COVID-19 cases in Nigeria from February 27, 2020 to April 5, 2020 were automatically mined every 24 hours from the official websites of NCDC (http://covid.ncdc.gov.ng/) and Wikipedia (http://tiny.cc/nigeria_covid19) using a python script. The dataset is in raw Excel file format
 
 Files:
-`nigeria_covid19.csv`
-`nigeria_covid19.xlsx`
+`**nigeria_covid19.csv**`
+`**nigeria_covid19.xlsx**`
 
 Sources:
 Nigeria Center for Disease Control – NCDC http://covid.ncdc.gov.ng/
@@ -27,7 +27,7 @@ Description:
 This is the part of the automated script to mine data on COVID-19 case numbers in Nigeria
 
 Files:
-nigeria_covid19.py
+`**nigeria_covid19.py**`
 
 ### Forecasting with Limited Data
 **
