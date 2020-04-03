@@ -59,6 +59,8 @@ def mineData(save_to_disk=True, verbose=True):
     data['index'] = np.arange(0,len(data))
 
     if verbose:
+        
+        #present data
         data.tail()
         table = PrettyTable()
         table.field_names = ["Property", "Value"]
@@ -68,6 +70,8 @@ def mineData(save_to_disk=True, verbose=True):
         table.add_row(['Min/Max Cases', [data["num_cases"].min(),data["num_cases"].max()]])
         table.add_row(['Records', data["record_id"].values])
         print(table)
+        
+        #visualize data
         fig = plt.figure(1, figsize=(12,6))
         plt.plot(data["record_date"], data["num_cases"], 'b-', linewidth=4)
         plt.grid(True)
@@ -77,6 +81,8 @@ def mineData(save_to_disk=True, verbose=True):
         plt.title("Nigeria COVID-19 Cases")      
     
     if save_to_disk:
+        
+        # save data to current directory
         cwd = os.getcwd()
         data.to_csv("nigeria_covid19.csv")
         print("Data saved to {} on {}".format(cwd, date))
