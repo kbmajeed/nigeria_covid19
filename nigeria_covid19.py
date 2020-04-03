@@ -74,10 +74,8 @@ def mineData(save_to_disk=True, verbose=True):
         plt.xlabel("Days")
         plt.ylabel("Number of Cases")
         fig.autofmt_xdate()
-        plt.title("Nigeria COVID-19 Cases")
-        
-        
-
+        plt.title("Nigeria COVID-19 Cases")      
+    
     if save_to_disk:
         cwd = os.getcwd()
         data.to_csv("nigeria_covid19.csv")
