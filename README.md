@@ -9,22 +9,22 @@ The Coronavirus disease COVID-19 at this point of writing is a pandemic that has
 ·	An ensemble of models leverages the strengths and compensates for weaknesses in the individual forecasting algorithms even with limited data.  
 
 ### Dataset and Repository
-**Description:**
+**Description:**  
 The daily total number of COVID-19 cases in Nigeria from February 27, 2020 to April 5, 2020 were automatically mined every 24 hours from the official websites of NCDC (http://covid.ncdc.gov.ng/) and Wikipedia (http://tiny.cc/nigeria_covid19) using a python script. The dataset is in raw Excel file format  
 
-**Files:**
+**Files:**  
 **`nigeria_covid19.csv`**,  
 **`nigeria_covid19.xlsx`**  
 
-**Sources:**
+**Sources:**  
 Nigeria Center for Disease Control – NCDC http://covid.ncdc.gov.ng/  
 COVID-19 Pandemic in Nigeria – Wikipedia http://tiny.cc/nigeria_covid19  
 
-### Code
+### Code  
 **Description:**
 This is the part of the automated script to mine data on COVID-19 case numbers in Nigeria  
 
-**Files:**
+**Files:**  
 **`nigeria_covid19.py`**  
 
 ### Forecasting with Limited Data
@@ -33,3 +33,4 @@ This is the part of the automated script to mine data on COVID-19 case numbers i
 Link to Data-in-Brief article submitted to Elsevier [//url]  
 
 **Citing this article**  
+
