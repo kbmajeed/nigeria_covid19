@@ -1,12 +1,9 @@
 # COVID-19 Case Data and Forecasting in Nigeria
-**
+  
 The Coronavirus disease COVID-19 at this point of writing is a pandemic that has rampaged planet earth. It is regarded as a global threat and in some quarters an existential threat. Every possible effort should be made in the application of mathematical models, artificial intelligence, big data, and other resources to stem the spread of this disease.  
 
 ### [1] Introduction
-·	These data are useful as they present facts that drive analytics on COVID-19 cases in Nigeria. It also represents an early reference that can be used in the future.  
-·	Academic institutions, public health agencies, scientific communities, researchers, students, and self-explorers can use this data, model, code, and analysis to explore and develop reliable insights on COVID-19 cases in Nigeria and beyond.  
-·	The data – with daily updates, model, code, and analysis presented can be applied to drive analytics, policy development, and decision making in other countries where data is scarce.  
-·	An ensemble of models leverages the strengths and compensates for weaknesses in the individual forecasting algorithms even with limited data.  
+These data are useful as they present facts that drive analytics on COVID-19 cases in Nigeria. It also represents an early reference that can be used in the future. Academic institutions, public health agencies, scientific communities, researchers, students, and self-explorers can use this data, model, code, and analysis to explore and develop reliable insights on COVID-19 cases in Nigeria and beyond. The data – with daily updates, model, code, and analysis presented can be applied to drive analytics, policy development, and decision making in other countries where data is scarce. An ensemble of models leverages the strengths and compensates for weaknesses in the individual forecasting algorithms even with limited data.  
 
 ### [2] Dataset and Repository
 **Description:**  
