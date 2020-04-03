@@ -59,7 +59,6 @@ def mineData(save_to_disk=True, verbose=True):
     data['index'] = np.arange(0,len(data))
 
     if verbose:
-        
         #present data
         data.tail()
         table = PrettyTable()
@@ -81,7 +80,6 @@ def mineData(save_to_disk=True, verbose=True):
         plt.title("Nigeria COVID-19 Cases")      
     
     if save_to_disk:
-        
         # save data to current directory
         cwd = os.getcwd()
         data.to_csv("nigeria_covid19.csv")
