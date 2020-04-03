@@ -27,7 +27,7 @@ Description:
 This is the part of the automated script to mine data on COVID-19 case numbers in Nigeria
 
 Files:
-nigeria_covid19.py #clean-up
+nigeria_covid19.py
 
 ### Forecasting with Limited Data
 **
