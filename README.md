@@ -33,6 +33,7 @@ Link to Data-in-Brief article submitted to Elsevier [//url]
 If you like this work, kindly star this repository.
   
 ### [5] Acknowledgement  
-  We would like to thank the Abdulmajeeds and Adeniyis for their encouragement.
-  Appreciation goes to the enitre Uniosun management team for their support.
+  We would like to thank the Abdulmajeeds and Adeniyis for their support.
+  Appreciation goes to the enitre Uniosun management team for their encourate.
+  
   
