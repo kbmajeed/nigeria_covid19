@@ -36,8 +36,7 @@ star button at the top of the page. If you want to get updated datasets
 you can follow this repository by clicking the watch button as well.
   
 ### [5] Acknowledgement  
-  We would like to thank the Abdulmajeeds for their support and special thanks to 
-  Aishat Adeniyi for the time and consideration. Appreciation goes to the enitre 
-  Uniosun management team for their encouragement.
+  We would like to thank the Abdulmajeeds for their support and consideration. 
+  Appreciation goes to the enitre Uniosun management team for their encouragement.
   
   
