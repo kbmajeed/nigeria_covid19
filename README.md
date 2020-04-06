@@ -31,7 +31,8 @@ Link to Data-in-Brief article submitted to Elsevier [//url]
 
 **Citing this work**  
 If you like this work, kindly star this repository by clicking the
-star button at the top of the page.
+star button at the top of the page. If you want to get updated datasets
+you can follow this repository by clicking the watch button as well.
   
 ### [5] Acknowledgement  
   We would like to thank the Abdulmajeeds for their support and special thanks to 
