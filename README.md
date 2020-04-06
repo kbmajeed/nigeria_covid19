@@ -30,7 +30,9 @@ This segment of the automated script mines data on COVID-19 case numbers in Nige
 Link to Data-in-Brief article submitted to Elsevier [//url]  
 
 **Citing this work**  
+If you like this work, kindly star this repository.
   
-### [5] Acknowledgement
-  
+### [5] Acknowledgement  
+  We would like to thank the Abdulmajeeds and Adeniyis for their encouragement.
+  Appreciation goes to the enitre Uniosun management team for their support.
   
