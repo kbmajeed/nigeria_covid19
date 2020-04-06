@@ -11,7 +11,8 @@ The daily total number of COVID-19 cases in Nigeria from February 27, 2020 to Ap
 
 **Files:**  
 **`nigeria_covid19.csv`**,  
-**`nigeria_covid19.xlsx`**  
+**`nigeria_covid19.xlsx`**,  
+**`nigeria_covid19_updated.xlsx`**,  
 
 **Sources:**  
 Nigeria Center for Disease Control – NCDC http://covid19.ncdc.gov.ng/  
