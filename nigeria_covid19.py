@@ -39,7 +39,7 @@ def mineData(save_to_disk=True, verbose=True):
     tds = dat.findAll('tr')
 
     # extract data 
-    # **Note, if table format changes, you may have missing data!
+    # **Note, if table format changes, you will have missing or no data!
     records = []
     for id, item in enumerate(tds[2:-1]):
         try:
