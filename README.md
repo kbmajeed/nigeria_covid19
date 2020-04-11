@@ -44,15 +44,15 @@ you can follow this repository by clicking the watch button as well.
   **(1) Forecasts for April 11, 2020**  
   ![](/imgs/SPECIAL_COVID19_FORECAST_APRIL11.png)  
   
-  **(2) A Case of New Cases **  
+  **(2) A Case of New Cases**  
   ![](imgs/New_Cases_April9.png)  
   
-  **(3) Momentum Analysis **  
+  **(3) Momentum Analysis**  
   ![](imgs/Momentum_Analysis_April9.png)  
   
   **(4) A Comparison between Nigeria and South Africa**  
   ![](imgs/NG_VS_SA.png)  
   
-  **(5) Comparison of Models **  
+  **(5) Comparison of Models**  
   ![](imgs/comapre_models.png)  
   
