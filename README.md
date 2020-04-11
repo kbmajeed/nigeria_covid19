@@ -7,11 +7,10 @@ These data are useful as they present facts that drive analytics on COVID-19 cas
 
 ### [2] Dataset and Repository
 **Description:**  
-The daily total number of COVID-19 cases in Nigeria from February 27, 2020 to April 5, 2020 were automatically mined every 24 hours from the official websites of NCDC and Wikipedia using a python script `nigeria_covid19.py`. The dataset is in raw Excel file format `nigeria_covid19.csv/xlsx`. Dataset with daily updated case numbers can be found in `nigeria_covid19_updated.xlsx`
+The daily total number of COVID-19 cases in Nigeria from February 27, 2020 to April 5, 2020 were automatically mined every 24 hours from the official websites of NCDC and Wikipedia using a python script `nigeria_covid19.py`. The dataset is in raw Excel file format `nigeria_covid19.csv`. Dataset with daily updated case numbers can be found in `nigeria_covid19_updated.csv`
 
 **Files:**  
 **`nigeria_covid19.csv`**,  
-**`nigeria_covid19.xlsx`**,  
 **`nigeria_covid19_updated.csv`**,  
 
 **Sources:**  
