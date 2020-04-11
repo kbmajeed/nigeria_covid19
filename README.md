@@ -54,5 +54,5 @@ you can follow this repository by clicking the watch button as well.
   ![](imgs/NG_VS_SA.png)  
   
   **(5) Comparison of Models **  
-  ![](comapre_models.png)  
+  ![](imgs/comapre_models.png)  
   
