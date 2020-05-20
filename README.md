@@ -27,7 +27,7 @@ This segment of the automated script mines data on COVID-19 case numbers in Nige
 ### [4] Forecasting with Limited Data
 
 **Data-in-Brief**  
-Link to Data-in-Brief article submitted to Elsevier [//url]  
+Link to Data-in-Brief article submitted to Elsevier [//url: https://www.sciencedirect.com/science/article/pii/S2352340920305771]  
 
 **Citing this work**  
 If you like this work, kindly star this repository by clicking the
